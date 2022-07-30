@@ -1,5 +1,5 @@
 aaaaabbbbcccc
-bbbbb
+bbbbbBBB
 ccccc
 ddddd
 eeeee
