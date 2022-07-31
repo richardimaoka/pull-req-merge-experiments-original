@@ -1,6 +1,6 @@
-Xaaaaabbbbcccc1
-XBbbbbbBBB255
-XCcccccCCC66
+Xaaaaabbbbcccc12
+XBbbbbbBBB2552
+XCcccccCCC6612
 XDdddddDDD
 XEeeeeeEEE
 Xfffffffffffff
